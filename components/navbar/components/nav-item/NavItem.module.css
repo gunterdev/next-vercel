@@ -1,0 +1,4 @@
+.active {
+  color: var(--selected-color) !important;
+  text-decoration: underline;
+}

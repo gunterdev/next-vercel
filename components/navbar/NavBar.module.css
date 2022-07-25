@@ -1,0 +1,7 @@
+.menuContainer a {
+  margin-right: 100px;
+  color: var(--primary-color);
+}
+.menuContainer a:hover {
+  text-decoration: underline;
+}
